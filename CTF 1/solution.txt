@@ -1,0 +1,10 @@
+Solution Flag: ISM_FLAG_MAKE_LOVE_NOT_WAR
+
+Method:
+1. The user should download the picture
+
+2. The user should find the enigma key, a picture hidden in the first picture
+(I used https://stegonline.georgeom.net/upload to hide the key in the first red bit plane)
+
+3. The user should decipher the enigma message with the key and get the flag
+(I used https://www.dcode.fr/enigma-machine-cipher to encrypt the flag)

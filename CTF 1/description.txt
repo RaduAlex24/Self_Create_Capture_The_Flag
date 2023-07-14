@@ -1,0 +1,5 @@
+Description: A simple HTML page with an encrypted message.
+
+Hints: Image steganography and Enigma cipher.
+
+The idea was mine :)

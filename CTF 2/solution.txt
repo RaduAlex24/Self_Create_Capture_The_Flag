@@ -1,0 +1,11 @@
+Solution Flag: ISM_FLAG_AES_IS_THE_BEST
+
+Method:
+1. The user should download the mp3 audio file
+
+2. The user should find the AES key, a text hidden in the audio file
+(I used https://www.stegonaut.com/ to hide the key)
+
+3. The user should decipher the AES message with the key and get the flag
+(I used https://gchq.github.io/CyberChef/ to encrypt the flag, the message is 
+encoded in base64 and the user should realize that for the decryption)

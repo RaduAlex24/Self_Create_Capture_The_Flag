@@ -1,0 +1,5 @@
+Description: A simple HTML page with an encrypted message.
+
+Hints: Audio steganography and AES cipher.
+
+The idea was mine :)
